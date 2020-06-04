@@ -1,0 +1,27 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img width=\"280\" height=\"180\" src=\"https://github.com/Viniciuslb067/Ecoleta/blob/master/icones/logo.svg\">\r </p>",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viniciuslb067/Ecoleta-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viniciuslb067/Ecoleta-/issues"
+  },
+  "homepage": "https://github.com/Viniciuslb067/Ecoleta-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
