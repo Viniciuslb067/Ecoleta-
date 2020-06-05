@@ -67,8 +67,6 @@ function handleSelectedItem(event) {
 
     const itemId = itemLi.dataset.id
 
-    
-
     // Verificar se existem itens selecionados, se sim
     // pegar os itens selecionados
 
