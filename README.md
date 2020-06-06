@@ -12,7 +12,7 @@ O **Ecoleta** é uma aplicação web desenvolvida com intuito de aumentar a efic
 
 <p align="center">
   <img width="860" height="400" src="https://github.com/Viniciuslb067/Ecoleta/blob/master/public/icones/68747470733a2f2f692e696d6775722e636f6d2f7371784c4562782e6a7067.jpg">
-<img width="860" height="400" src="https://github.com/Viniciuslb067/Ecoleta/blob/master/public/icones/cadastro.gif">
+<img width="860" height="400" src="https://github.com/Viniciuslb067/Ecoleta/blob/master/public/icones/search.gif">
 </p>
 
 
